@@ -13,7 +13,7 @@ The "entries" in all commands can be:
 
 - one or more files
 - one or more globs
-- one or more directorises (see [Specifying Entrypoints](/getting-started/configuration/#specifying-entrypoints))
+- one or more directories (see [Specifying Entrypoints](/getting-started/configuration/#specifying-entrypoints))
 
 {% warning %}
 
